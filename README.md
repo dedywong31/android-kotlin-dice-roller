@@ -1,1 +1,1 @@
-"Android Dice Roller with Kotlin" 
+Android Dice Roller with Kotlin
